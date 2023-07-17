@@ -191,11 +191,15 @@ PrefabInstance:
     - target: {fileID: 9500000, guid: 65d8eda911e0ba548a3674f65c43308b, type: 3}
       propertyPath: m_Avatar
       value: 
-      objectReference: {fileID: 9000000, guid: 65d8eda911e0ba548a3674f65c43308b, type: 3}
+      objectReference: {fileID: 9000000, guid: 36d108cb544cd4747ae8a3ccee5c278c, type: 3}
     - target: {fileID: 9500000, guid: 65d8eda911e0ba548a3674f65c43308b, type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 75b4e15279b1d5d4bb475335ba13e8ea, type: 2}
+    - target: {fileID: 9500000, guid: 65d8eda911e0ba548a3674f65c43308b, type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9500000, guid: 65d8eda911e0ba548a3674f65c43308b, type: 3}
       propertyPath: m_ApplyRootMotion
       value: 0
